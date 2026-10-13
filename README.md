@@ -663,11 +663,11 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 | Member | Name | Roll / Registration No. | Role | Work / Contribution |
 |---|---|---|---|---|
-| **Member 1** | **Pushpendra Rathore** | **24EARAD128** | **Project Coordination & Architecture — confirm** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
-| **Member 2** | **Yogesh Saini** | **24EARAD188** | **Backend & Networking — confirm** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
+| **Member 1** | **Pushpendra Rathore** | **24EARAD128** | **Project Coordination & Architecture** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
+| **Member 2** | **Yogesh Saini** | **24EARAD188** | **Backend & Networking** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
 | **Member 3** | **Vikash** | **24EARAD178** | **Frontend Developer** | JavaFX WebView UI, HTML/CSS/JavaScript, login/chat layouts, responsive panels, theme styling, frontend controls, interface integration and improvements. |
-| **Member 4** | **Chirag Jangra** | **25EARAD701** | **Database & Feature Integration — confirm** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
-| **Member 5** | **Udai Singh** | **24EARAD166** | **Testing, Deployment & Documentation — confirm** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
+| **Member 4** | **Chirag Jangra** | **25EARAD701** | **Database & Feature Integration** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
+| **Member 5** | **Udai Singh** | **24EARAD166** | **Testing, Deployment & Documentation** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
 
 > **Important:** The suggested responsibilities above provide an editable structure; they do **not** establish unverified individual contributions. Adjust every row to reflect the real work distribution and participation of your group.
 
