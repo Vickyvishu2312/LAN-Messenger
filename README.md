@@ -11,7 +11,7 @@
 ![Release](https://img.shields.io/badge/Release-v1.0.4-22A06B?style=for-the-badge)
 ![Network](https://img.shields.io/badge/Network-LAN%20Only-6254B8?style=for-the-badge)
 
-**A five-member academic software development project**
+**A software development project**
 
 [**Download Windows Installer**](https://github.com/Vickyvishu2312/LAN-Messenger/releases) · [**Source Code**](https://github.com/Vickyvishu2312/LAN-Messenger) · [**Report a Bug**](https://github.com/Vickyvishu2312/LAN-Messenger/issues)
 
@@ -60,10 +60,10 @@
 | **Frontend** | JavaFX WebView, HTML, CSS, JavaScript |
 | **Database** | SQLite, accessed through JDBC |
 | **Communication** | Java sockets over a Local Area Network |
-| **Team** | Five student developers |
+| **Team** | Pushpendra Rathore , Yogesh Saini, Vikash , Chirag Jangra and Udai Singh |
 | **Development period** | July–October 2026 |
 | **Repository** | [Vickyvishu2312/LAN-Messenger](https://github.com/Vickyvishu2312/LAN-Messenger) |
-| **Maintainer** | Vicky |
+| **Maintainer** | Vikash |
 
 **LAN Messenger** is a Windows desktop application that lets people using computers on the **same Local Area Network (LAN)** communicate without depending on a public internet messaging service. It provides private conversations, groups, file transfers, voice notes, local chat history, and desktop alerts through a modern messaging interface.
 
