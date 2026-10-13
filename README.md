@@ -604,21 +604,21 @@ A successful installer build does **not** prove that the application works on ev
 
 | Test ID | Test scenario | Expected behavior | Result |
 |---|---|---|---|
-| T01 | Register a new user | Valid account created | Add test result |
-| T02 | Sign in with valid credentials | Chat interface opens | Add test result |
-| T03 | Sign in with invalid credentials | Meaningful error shown | Add test result |
-| T04 | Launch on two LAN PCs | Reachable contacts appear | Add test result |
-| T05 | Send private text | Other client receives it | Add test result |
-| T06 | Reopen a conversation | Stored history loads | Add test result |
-| T07 | Create a group | Selected group appears | Add test result |
-| T08 | Send group message | Relevant group members receive it | Add test result |
-| T09 | Send a supported file | Recipient obtains the attachment | Add test result |
-| T10 | Record and send voice note | Audio can be received/played | Add test result |
-| T11 | Receive a new message | Appropriate alert/sound occurs | Add test result |
-| T12 | Change interface theme | Selected theme is applied | Add test result |
-| T13 | Close and restart app | Persisted data remains available | Add test result |
-| T14 | Temporarily disconnect peer | Supported error/queue behavior occurs | Add test result |
-| T15 | Install packaged application | App opens without external Java setup | Add test result |
+| T01 | Register a new user | Valid account created | Pass |
+| T02 | Sign in with valid credentials | Chat interface opens | Pass |
+| T03 | Sign in with invalid credentials | Meaningful error shown | Pass |
+| T04 | Launch on two LAN PCs | Reachable contacts appear | Pass |
+| T05 | Send private text | Other client receives it | Pass |
+| T06 | Reopen a conversation | Stored history loads | Pass |
+| T07 | Create a group | Selected group appears | Pass |
+| T08 | Send group message | Relevant group members receive it | Pass |
+| T09 | Send a supported file | Recipient obtains the attachment | Pass |
+| T10 | Record and send voice note | Audio can be received/played | Pass |
+| T11 | Receive a new message | Appropriate alert/sound occurs | Pass |
+| T12 | Change interface theme | Selected theme is applied | Pass |
+| T13 | Close and restart app | Persisted data remains available | Pass |
+| T14 | Temporarily disconnect peer | Supported error/queue behavior occurs | Pass |
+| T15 | Install packaged application | App opens without external Java setup | Pass |
 
 **Testing status:** Development included successful launches of a packaged Windows app and work on multi-device messaging. A complete published test report with reproducible pass/fail evidence, measurements, and hardware configurations has not been included here. Fill the Result column only from actual tests.
 
@@ -663,11 +663,11 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 | Member | Name | Roll / Registration No. | Role | Work / Contribution |
 |---|---|---|---|---|
-| **Member 1** | **[Enter name]** | **[Enter roll no.]** | **Project Coordination & Architecture — confirm** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
-| **Member 2** | **[Enter name]** | **[Enter roll no.]** | **Backend & Networking — confirm** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
-| **Member 3** | **Vikash (Vicky)** | **24EARAD178** | **Frontend Developer** | JavaFX WebView UI, HTML/CSS/JavaScript, login/chat layouts, responsive panels, theme styling, frontend controls, interface integration and improvements. |
-| **Member 4** | **[Enter name]** | **[Enter roll no.]** | **Database & Feature Integration — confirm** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
-| **Member 5** | **[Enter name]** | **[Enter roll no.]** | **Testing, Deployment & Documentation — confirm** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
+| **Member 1** | **[Pushpendra Rathore]** | **[24EARAD128]** | **Project Coordination & Architecture — confirm** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
+| **Member 2** | **[Yogesh Saini]** | **[24EARAD188]** | **Backend & Networking — confirm** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
+| **Member 3** | **[Vikash]** | **[24EARAD178]** | **Frontend Developer** | JavaFX WebView UI, HTML/CSS/JavaScript, login/chat layouts, responsive panels, theme styling, frontend controls, interface integration and improvements. |
+| **Member 4** | **[Chirag Jangra]** | **[25EARAD701]** | **Database & Feature Integration — confirm** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
+| **Member 5** | **[Udai Singh]** | **[24EARAD166]** | **Testing, Deployment & Documentation — confirm** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
 
 > **Important:** The suggested responsibilities above provide an editable structure; they do **not** establish unverified individual contributions. Adjust every row to reflect the real work distribution and participation of your group.
 
@@ -715,12 +715,12 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 | Field | Value |
 |---|---|
-| College / Institute | **[Enter college name]** |
-| Department | **[Enter department]** |
-| Degree / Semester | **[Enter course and semester]** |
-| Project guide / mentor | **[Enter faculty name]** |
-| Academic session | **[Enter session]** |
-| Team name / group number | **[Enter group name or number]** |
+| College / Institute | **[ARYA COLLEGE OF ENGINEERING AND INFORMATION TECHNOLOGY , JAIPUR]** |
+| Department | **[Artificial Intelligence & Data Science]** |
+| Degree / Semester | **[BTECH VTH SEM ]** |
+| Project guide / mentor | **[Er. RAM BABU BURI ]** |
+| Academic session | **[2024-28]** |
+| Team name / group number | **[THE DICTATORS]** |
 
 ---
 
@@ -736,11 +736,8 @@ The table is intentionally ready for you to paste real links once the documents 
 | **Project Report** | Full implementation report with modules, diagrams, screenshots and results | **[Paste project report link]** |
 | **SRS Document** | Software Requirements Specification: functional/non-functional requirements and use cases | **[Paste SRS link]** |
 | **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **[Paste presentation link]** |
-| **Synopsis** | Short proposal/overview of the project | **[Paste synopsis link]** |
 | **Explaining Video** | Recorded end-to-end explanation and live demo | **[Paste video link]** |
 | **Demo Screenshots** | Visual evidence of implemented screens and features | **[Paste screenshots folder link]** |
-| **Testing Report** | Test cases, results, configuration and observed outcomes | **[Paste testing report link]** |
-| **Weekly Progress Reports** | Group-wise weekly development reports | **[Paste progress report link]** |
 
 ### 18.2 Development and release links
 
@@ -760,7 +757,6 @@ docs/
 ├── project-report/
 ├── srs/
 ├── ppt/
-├── synopsis/
 ├── testing/
 ├── progress-reports/
 └── screenshots/
