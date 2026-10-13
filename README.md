@@ -427,7 +427,6 @@ The group repository creates tables including:
 
 ## 12. Repository Folder Structure
 
-The following is a **representative layout** based on the project's Java package structure. The authoritative structure is the current GitHub checkout; optional files and subfolders can differ between revisions.
 
 ```text
 LAN-Messenger/
@@ -485,10 +484,6 @@ LAN-Messenger/
 │               ├── logo.png
 │               ├── logo.ico
 │               └── [supporting styles/assets]
-├── lib/
-│   ├── javafx/                # JavaFX development libraries
-│   └── [other required JARs]
-└── [other project configuration files]
 ```
 
 Folders such as `build/`, `dist/`, private databases, temporary logs, and local user data are generated locally and should not be committed as normal source artifacts.
@@ -508,7 +503,7 @@ Folders such as `build/`, `dist/`, private databases, temporary logs, and local 
 5. Follow the setup wizard and launch **LAN Messenger**.
 6. Repeat on other Windows PCs connected to the same local network.
 
-**Important:** GitHub automatically displays “Source code (zip)” links. Those contain repository source code—not the installable application. Use the custom ZIP under **Assets**.
+
 
 ### 13.2 System requirements
 
@@ -731,7 +726,7 @@ Measure results on real devices and include the network environment; do not inve
 | **Research Paper** | Problem, literature review, design approach, evaluation, references | **[Paste research paper PDF / DOI / Drive link]** |
 | **Project Report** | Full implementation report with modules, diagrams, screenshots and results | **[Paste project report link]** |
 | **SRS Document** | Software Requirements Specification: functional/non-functional requirements and use cases | **[Paste SRS link]** |
-| **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **[Paste presentation link]** |
+| **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **https://docs.google.com/presentation/d/1-Kvncq6xc-O98tra8e-DFyVXUWrvsxq7/edit?usp=drive_link&ouid=110800669502649595167&rtpof=true&sd=true** |
 | **Explaining Video** | Recorded end-to-end explanation and live demo | **[Paste video link]** |
 | **Demo Screenshots** | Visual evidence of implemented screens and features | **https://drive.google.com/drive/folders/1HJ0YZ0j-wRxpaudOkSUcTjH2awq84bsI?usp=drive_link** |
 
