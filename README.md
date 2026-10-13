@@ -641,15 +641,15 @@ Add screenshots under a directory such as `docs/screenshots/`, then replace the 
 
 | Screenshot / Media | What to show | Link |
 |---|---|---|
-| Login and registration | Account entry screens | **[Add screenshot link]** |
-| Main dashboard | Sidebar and conversation panel | **[Add screenshot link]** |
-| Private chat | Sent/received message bubbles | **[Add screenshot link]** |
-| Group chat | Group messages and member controls | **[Add screenshot link]** |
-| File sharing | Attachment card or received file | **[Add screenshot link]** |
-| Voice messages | Microphone controls and audio message | **[Add screenshot link]** |
-| Themes | Comparison of available themes | **[Add screenshot link]** |
-| Windows installer | Installation wizard or shortcut | **[Add screenshot link]** |
-| Explaining/demo video | Full application walkthrough | **[Add video link]** |
+| Login and registration | Account entry screens | **https://drive.google.com/file/d/1Ry9MEMX29QHOJKM5R4t-_OvtKPvzjm--/view?usp=drive_link** |
+| Main dashboard | Sidebar and conversation panel | **https://drive.google.com/file/d/1J0jNWVO1HJYiR-gABs4Y45uUdN3Dcxun/view?usp=sharing** |
+| Private chat | Sent/received message bubbles | **https://drive.google.com/file/d/1JuHXT1Epk5_mP1sY7ezm3qCCvzPl2t-6/view?usp=drive_link** |
+| Group chat | Group messages and member controls | **https://drive.google.com/file/d/1JeolJevPbqoVaMuyauwgHLU9OrbfzAoG/view?usp=sharing** |
+| File sharing | Attachment card or received file | **https://drive.google.com/file/d/1JuHXT1Epk5_mP1sY7ezm3qCCvzPl2t-6/view?usp=sharing** |
+| Voice messages | Microphone controls and audio message | **https://drive.google.com/file/d/1Pup_7pQCOkRI-i0INP4lG9obm13xcif1/view?usp=drive_link** |
+| Themes | Comparison of available themes | **https://drive.google.com/file/d/1J0jNWVO1HJYiR-gABs4Y45uUdN3Dcxun/view?usp=sharing** |
+| Windows installer | Installation wizard or shortcut | **https://github.com/Vickyvishu2312/LAN-Messenger/releases/download/v1.0.4/LAN-Messenger-v1.0.4-Windows-x64-Setup.zip** |
+| Explaining/demo video | Full application walkthrough | **[video link]** |
 
 **Screenshot checklist:** Hide personal conversations, passwords, private IP information where necessary, and any sensitive local files before publishing screenshots.
 
@@ -663,31 +663,31 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 | Member | Name | Roll / Registration No. | Role | Work / Contribution |
 |---|---|---|---|---|
-| **Member 1** | **[Pushpendra Rathore]** | **[24EARAD128]** | **Project Coordination & Architecture — confirm** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
-| **Member 2** | **[Yogesh Saini]** | **[24EARAD188]** | **Backend & Networking — confirm** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
-| **Member 3** | **[Vikash]** | **[24EARAD178]** | **Frontend Developer** | JavaFX WebView UI, HTML/CSS/JavaScript, login/chat layouts, responsive panels, theme styling, frontend controls, interface integration and improvements. |
-| **Member 4** | **[Chirag Jangra]** | **[25EARAD701]** | **Database & Feature Integration — confirm** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
-| **Member 5** | **[Udai Singh]** | **[24EARAD166]** | **Testing, Deployment & Documentation — confirm** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
+| **Member 1** | **Pushpendra Rathore** | **24EARAD128** | **Project Coordination & Architecture — confirm** | Requirements analysis, module planning, architecture decisions, task coordination, system integration. |
+| **Member 2** | **Yogesh Saini** | **24EARAD188** | **Backend & Networking — confirm** | Java application services, LAN discovery, peer connections, message transport, networking error handling. |
+| **Member 3** | **Vikash** | **24EARAD178** | **Frontend Developer** | JavaFX WebView UI, HTML/CSS/JavaScript, login/chat layouts, responsive panels, theme styling, frontend controls, interface integration and improvements. |
+| **Member 4** | **Chirag Jangra** | **25EARAD701** | **Database & Feature Integration — confirm** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
+| **Member 5** | **Udai Singh** | **24EARAD166** | **Testing, Deployment & Documentation — confirm** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
 
 > **Important:** The suggested responsibilities above provide an editable structure; they do **not** establish unverified individual contributions. Adjust every row to reflect the real work distribution and participation of your group.
 
 ### 17.2 Detailed responsibility guide
 
-**Member 1 — Project planning / architecture (editable assignment)**
+**Pushpendra Rathore — Project planning / architecture**
 
 - Identify project scope, objectives, and requirements.
 - Break the system into independently developable modules.
 - Define interfaces and integration rules between modules.
 - Coordinate task progress, reviews, and final project delivery.
 
-**Member 2 — Backend / LAN networking (editable assignment)**
+**Yogesh Saini— Backend / LAN networking**
 
 - Develop socket communication and peer discovery services.
 - Implement core private-message sending and receiving.
 - Handle session startup, background tasks, network errors, and peer availability.
 - Support backend integration with UI events.
 
-**Member 3 — Frontend Development: Vikash (Vicky)**
+**Vikash — Frontend Development**
 
 - Design login, registration, contact list, private chat, and group chat screens.
 - Develop HTML, CSS, JavaScript UI within JavaFX WebView.
@@ -697,14 +697,14 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 - Improve voice note controls, notification toggle appearance, icons, and visual consistency.
 - Participate in user-interface testing and bug fixing.
 
-**Member 4 — Database / extended features (editable assignment)**
+**Chirag Jangra — Database / extended features (editable assignment)**
 
 - Design or maintain local database schemas and repositories.
 - Support local user data, message history, and group persistence.
 - Integrate attachments, voice message records, and related data flows.
 - Check database reliability and data consistency during service updates.
 
-**Member 5 — QA / deployment / documentation (editable assignment)**
+**Udai Singh — QA / deployment / documentation**
 
 - Prepare functional, integration, and installation test scenarios.
 - Verify LAN messaging on multiple machines where available.
@@ -715,12 +715,12 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 | Field | Value |
 |---|---|
-| College / Institute | **[ARYA COLLEGE OF ENGINEERING AND INFORMATION TECHNOLOGY , JAIPUR]** |
-| Department | **[Artificial Intelligence & Data Science]** |
-| Degree / Semester | **[BTECH VTH SEM ]** |
-| Project guide / mentor | **[Er. RAM BABU BURI ]** |
-| Academic session | **[2024-28]** |
-| Team name / group number | **[THE DICTATORS]** |
+| College / Institute | **ARYA COLLEGE OF ENGINEERING AND INFORMATION TECHNOLOGY , JAIPUR** |
+| Department | **Artificial Intelligence & Data Science** |
+| Degree / Semester | **BTECH VTH SEM** |
+| Project guide / mentor | **Er. RAM BABU BURI** |
+| Academic session | **2024-28** |
+| Team name / group number | **THE DICTATORS** |
 
 ---
 
@@ -737,7 +737,7 @@ The table is intentionally ready for you to paste real links once the documents 
 | **SRS Document** | Software Requirements Specification: functional/non-functional requirements and use cases | **[Paste SRS link]** |
 | **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **[Paste presentation link]** |
 | **Explaining Video** | Recorded end-to-end explanation and live demo | **[Paste video link]** |
-| **Demo Screenshots** | Visual evidence of implemented screens and features | **[Paste screenshots folder link]** |
+| **Demo Screenshots** | Visual evidence of implemented screens and features | **https://drive.google.com/drive/folders/1HJ0YZ0j-wRxpaudOkSUcTjH2awq84bsI?usp=drive_link** |
 
 ### 18.2 Development and release links
 
@@ -856,7 +856,7 @@ Suggested workflow: fork or create a branch, make a focused change, test it, and
 
 **Project:** LAN Messenger  
 **Team:** Five student developers  
-**Frontend developer (Member 3) and repository maintainer:** Vikash (Vicky)  
+**Frontend developer  and repository maintainer:** Vikash  
 **Academic year:** 2026  
 **Repository:** [github.com/Vickyvishu2312/LAN-Messenger](https://github.com/Vickyvishu2312/LAN-Messenger)
 
