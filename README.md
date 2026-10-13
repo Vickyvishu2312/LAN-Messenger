@@ -637,8 +637,6 @@ Measure results on real devices and include the network environment; do not inve
 
 ## 16. Screenshots and Demo
 
-Add screenshots under a directory such as `docs/screenshots/`, then replace the placeholders below with working links or Markdown images.
-
 | Screenshot / Media | What to show | Link |
 |---|---|---|
 | Login and registration | Account entry screens | **https://drive.google.com/file/d/1Ry9MEMX29QHOJKM5R4t-_OvtKPvzjm--/view?usp=drive_link** |
@@ -657,7 +655,6 @@ Add screenshots under a directory such as `docs/screenshots/`, then replace the 
 
 ## 17. Team Members and Contributions
 
-This is a **five-member team project**. Member 3's frontend role is identified below. **Replace the names, roll numbers, and suggested assignments for Members 1, 2, 4, and 5 with the actual team's details before presenting this section as a final record.**
 
 ### 17.1 Team details
 
@@ -669,7 +666,7 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 | **Member 4** | **Chirag Jangra** | **25EARAD701** | **Database & Feature Integration** | SQLite repositories, local persistence, attachment/group/voice support, service integration. |
 | **Member 5** | **Udai Singh** | **24EARAD166** | **Testing, Deployment & Documentation** | Test cases, regression checks, integration verification, Windows installer packaging, report/SRS/presentation support. |
 
-> **Important:** The suggested responsibilities above provide an editable structure; they do **not** establish unverified individual contributions. Adjust every row to reflect the real work distribution and participation of your group.
+
 
 ### 17.2 Detailed responsibility guide
 
@@ -728,7 +725,6 @@ This is a **five-member team project**. Member 3's frontend role is identified b
 
 ### 18.1 Academic deliverables
 
-The table is intentionally ready for you to paste real links once the documents have been uploaded to GitHub or a shareable document host.
 
 | Deliverable | Description | Link / status |
 |---|---|---|
@@ -749,20 +745,7 @@ The table is intentionally ready for you to paste real links once the documents 
 | **Issues / bug reports** | https://github.com/Vickyvishu2312/LAN-Messenger/issues |
 | **Commit history** | https://github.com/Vickyvishu2312/LAN-Messenger/commits/main/ |
 
-**Recommended organization for documents (create these folders if desired):**
 
-```text
-docs/
-├── research-paper/
-├── project-report/
-├── srs/
-├── ppt/
-├── testing/
-├── progress-reports/
-└── screenshots/
-```
-
-These folders are suggestions, **not** claims that the repository already contains them.
 
 ---
 
@@ -781,7 +764,7 @@ The project was developed iteratively by separating features into modules, testi
 | **7. Windows release** | Deployment | Package JavaFX-capable runtime, application icon and installable EXE |
 | **8. Academic documentation** | Submission | Prepare README, presentation, research paper, report and SRS |
 
-**Development note:** Actual Git commit dates, packaging dates, and feature-completion dates should not be rewritten to match a planned academic schedule. Use authentic evidence when reporting milestones.
+
 
 ---
 
