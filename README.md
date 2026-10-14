@@ -724,10 +724,10 @@ Measure results on real devices and include the network environment; do not inve
 | Deliverable | Description | Link / status |
 |---|---|---|
 | **Research Paper** | Problem, literature review, design approach, evaluation, references | **https://drive.google.com/drive/folders/1zoYEEwuZSE1kutqKcGY1x7CglgbeufoT?usp=drive_link** |
-| **Project Report** | Full implementation report with modules, diagrams, screenshots and results | **[Paste project report link]** |
+| **Project Report** | Full implementation report with modules, diagrams, screenshots and results | **[project report link]** |
 | **SRS Document** | Software Requirements Specification: functional/non-functional requirements and use cases | **https://drive.google.com/drive/folders/1GIoAoEi-nbnx6AwZaprkLuNRcF8AwQBT?usp=drive_link** |
 | **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **https://drive.google.com/drive/folders/1nIk-ZjqDdu2FQEWp2KRagSXTaR4Pd08X?usp=drive_link** |
-| **Explaining Video** | Recorded end-to-end explanation and live demo | **[Paste video link]** |
+| **Explaining Video** | Recorded end-to-end explanation and live demo | **[video link]** |
 | **Demo Screenshots** | Visual evidence of implemented screens and features | **https://drive.google.com/drive/folders/1HJ0YZ0j-wRxpaudOkSUcTjH2awq84bsI?usp=drive_link** |
 
 ### 18.2 Development and release links
