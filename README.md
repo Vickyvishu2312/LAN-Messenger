@@ -761,6 +761,55 @@ The project was developed iteratively by separating features into modules, testi
 
 
 
+
+##  Weekly Project Progress Report
+
+**Project:** LAN Messenger  
+**Team:** The Dictators  
+**Department:** Artificial Intelligence & Data Science  
+**Project Guide:** Er. Ram Babu Buri
+
+### Team Members
+
+| Name | Roll Number | Role |
+|---|---|---|
+| Pushpendra Rathore | 24EARAD128 | Project Coordination & Architecture |
+| Yogesh Saini | 24EARAD188 | Backend & Networking |
+| Vikash | 24EARAD178 | Frontend Development |
+| Chirag Jangra | 25EARAD701 | Database & Feature Integration |
+| Udai Singh | 24EARAD166 | Testing, Deployment & Documentation |
+
+### Weekly Work Progress
+
+| Week | Pushpendra Rathore | Yogesh Saini | Vikash | Chirag Jangra | Udai Singh |
+|---|---|---|---|---|---|
+| Week 1 | Project planning and objectives | Studied Java networking | Researched UI technologies | Studied SQLite | Requirements documentation |
+| Week 2 | Designed system architecture | Planned socket communication | Designed interface layouts | Planned database structure | Prepared testing strategy |
+| Week 3 | Coordinated initial modules | Authentication integration | Login and registration UI | Created account tables | Authentication testing |
+| Week 4 | Reviewed module structure | LAN peer discovery | Contact list interface | Contact database integration | Network connectivity testing |
+| Week 5 | Integrated messaging modules | Private messaging service | Chat interface and Send button | Message storage | Message delivery testing |
+| Week 6 | Reviewed message workflow | Message status handling | Message bubbles and status UI | Chat history and pending events | Message status testing |
+| Week 7 | Coordinated group features | Group communication | Group chat interface | Group tables and membership | Group feature testing |
+| Week 8 | Reviewed file transfer | File transfer service | Attachment interface | Attachment integration | File transfer testing |
+| Week 9 | Coordinated voice features | Voice transfer integration | Voice message controls | Reviewed storage integration | Voice and notification testing |
+| Week 10 | Integration review | Backend error handling | UI improvements and themes | Database optimization review | Integration testing |
+| Week 11 | Final integration and fixes | Network bug fixing | UI bug fixing | Database validation | Windows EXE packaging |
+| Week 12 | Final project review | Backend verification | Frontend finalization | Database review | Installer, GitHub release and documentation |
+
+### Final Project Status
+
+**Status:** Completed  
+**Version:** v1.0.3  
+**Platform:** Windows Desktop  
+**Technologies:** Java, JavaFX WebView, HTML, CSS, JavaScript, SQLite, JDBC, TCP/IP Sockets
+
+### Project Repository
+
+[LAN Messenger - GitHub](https://github.com/Vickyvishu2312/LAN-Messenger)
+
+
+
+
 ---
 
 ## 20. Limitations and Future Scope
@@ -833,8 +882,8 @@ Suggested workflow: fork or create a branch, make a focused change, test it, and
 ### Credits
 
 **Project:** LAN Messenger  
-**Team:** Five student developers  
-**Frontend developer  and repository maintainer:** Vikash  
+**Team:** THE DICTATORS  
+**Repository maintainer:** Vikash  
 **Academic year:** 2026  
 **Repository:** [github.com/Vickyvishu2312/LAN-Messenger](https://github.com/Vickyvishu2312/LAN-Messenger)
 
