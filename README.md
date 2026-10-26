@@ -727,7 +727,7 @@ Measure results on real devices and include the network environment; do not inve
 | **Project Report** | Full implementation report with modules, diagrams, screenshots and results | **https://drive.google.com/drive/folders/1hBS4j_ENO1vMSZW0VfDoqD2qRqoKd31b?usp=drive_link** |
 | **SRS Document** | Software Requirements Specification: functional/non-functional requirements and use cases | **https://drive.google.com/drive/folders/1GIoAoEi-nbnx6AwZaprkLuNRcF8AwQBT?usp=drive_link** |
 | **PPT / Presentation** | Project overview, architecture, demonstration, results and conclusion | **https://drive.google.com/drive/folders/1nIk-ZjqDdu2FQEWp2KRagSXTaR4Pd08X?usp=drive_link** |
-| **Explaining Video** | Recorded end-to-end explanation and live demo | **[video link]** |
+| **Explaining Video** | Recorded end-to-end explanation and live demo | **https://drive.google.com/drive/folders/1afN8mdGIZgJq2ZhMzJYfDupRvsY6GhC3?usp=drive_link** |
 | **Demo Screenshots** | Visual evidence of implemented screens and features | **https://drive.google.com/drive/folders/1HJ0YZ0j-wRxpaudOkSUcTjH2awq84bsI?usp=drive_link** |
 
 ### 18.2 Development and release links
